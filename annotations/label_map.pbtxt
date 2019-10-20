@@ -1,0 +1,144 @@
+item {
+    id: 1
+    name: 'giveway'
+}
+
+item {
+    id: 2
+    name: 'red'
+}
+
+item {
+    id: 3
+    name: 'amber'
+}
+
+item {
+    id: 4
+    name: 'green'
+}
+
+item {
+    id: 5
+    name: 'stop'
+}
+
+item {
+    id: 6
+    name: 'right'
+}
+
+item {
+    id: 7
+    name: 'sp60'
+}
+
+item {
+    id: 8
+    name: 'sp110'
+}
+
+item {
+    id: 9
+    name: 'sp10'
+}
+
+item {
+    id: 10
+    name: 'sp55'
+}
+
+item {
+    id: 11
+    name: 'sp90'
+}
+
+item {
+    id: 12
+    name: 'sp120'
+}
+
+item {
+    id: 13
+    name: 'sp80'
+}
+
+item {
+    id: 14
+    name: 'sp15'
+}
+
+item {
+    id: 15
+    name: 'sp25'
+}
+
+item {
+    id: 16
+    name: 'sp35'
+}
+
+item {
+    id: 17
+    name: 'sp65'
+}
+
+item {
+    id: 18
+    name: 'sp30'
+}
+
+item {
+    id: 19
+    name: 'sp70'
+}
+
+item {
+    id: 20
+    name: 'sp50'
+}
+
+item {
+    id: 21
+    name: 'sp40'
+}
+
+item {
+    id: 22
+    name: 'sp100'
+}
+
+item {
+    id: 23
+    name: 'sp130'
+}
+
+item {
+    id: 24
+    name: 'sp20'
+}
+
+item {
+    id: 25
+    name: 'sp5'
+}
+
+item {
+    id: 26
+    name: 'sp60'
+}
+
+item {
+    id: 27
+    name: 'sp110'
+}
+
+item {
+    id: 28
+    name: 'sp10'
+}
+
+item {
+    id: 29
+    name: 'sp45'
+}
